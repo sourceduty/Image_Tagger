@@ -4,5 +4,14 @@
 
 Image Tagger can significantly aid in managing large collections of images by automatically tagging each image with relevant keywords. This automation speeds up the process of sorting and retrieving images based on specific criteria or themes. For instance, if a user needs to find all images featuring urban landscapes or specific events like weddings, Image Tagger’s ability to accurately tag images with such descriptors makes this task much more efficient. In essence, Image Tagger enhances the accessibility and usability of image databases, making it easier for users to leverage their visual resources effectively.
 
+#
+
+![Image Tagger](https://github.com/user-attachments/assets/cc1818c3-8df6-4617-8aa0-eb4c0515b403)
+
+#
+### Realted Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
